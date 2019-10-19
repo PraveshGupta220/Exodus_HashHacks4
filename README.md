@@ -1,15 +1,13 @@
-## Food-Visualizer
-Food Visualizer (Made at Hackference India)
+## Carbon Emission Estimator 
 
 ## ℹ️ Project information
-- **Project Name**: ARPortions
-- **Short Project Description**: AR application to help consumers realize their portions. 
-- **Team Members**: Prakhar Agarwal, Vedant Bonde
-- **Demo Link**: _(if any, this might contain a website/ mobile application link/ short video, etc.)_
-- **Repository Link**: https://github.com/prakhar19/Food-Visualizer.git
-- **Labels**: AR/VR Track 2, Interfaces of tomorrow
+- **Project Name**: 
+- **Short Project Description**: Application to help consumers realize their carbon footprints. 
+- **Team Members**: Abhinav Gangwar, Arvind Jangid, Pravesh Gupta, Sarthak Sabharwal.
+- **Demo Link**: 
+- **Repository Link**: 
+- **Labels**:
 
 ## 🔥 Description
-ARPortions is a AR based food visualization application which aims to help consumer realize the real portions of food they are ordering or buying from a supermarket. The application uses ARCore and Android Studio to project the correct portions of the food to be ordered for the consumer. The consumer can then decide if he/she wants to order more or less portions of the required item to be bought. We have initially thought to integrate this service with Food Delivery applications like Swiggy and Zomato. We have also thought of implementing further additions to the application like choosing your drink preference and ingredients with the help of AR and seeing a cut through version of packaged goods in the retail supermarkets with such applications. 
-
+We are creating an application that help users track their daily carbon footprints based on their daily routine, lifestyle, transportation, etc. The application asks users various questions regarding their lifestyle and evaluates carbon footprints based on various formulaes and databases.It categorises the data provided by the user in different categories like transportation, lifestyle, shopping, etc. It also prompts the user if their footprints is higher than recommended values provided by different organisations. We have also thought of implementing further additions to the application like comparing their carbon footprints with their friends, families, colleagues, etc.
 
